@@ -1,0 +1,12 @@
+{
+    "model_name": "Gradient Boosting",
+    "test_r2": 0.9805,
+    "test_rmse": 0.7849,
+    "test_mae": 0.6306,
+    "features": [
+        "TV",
+        "Radio",
+        "Newspaper"
+    ],
+    "target": "Sales"
+}
